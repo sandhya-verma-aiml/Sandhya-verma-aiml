@@ -1,6 +1,11 @@
 <h1 align="center"> MY PORTFOLIO</h1>
 
+<p>
 <p align="left"> <img width="400" height="400" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" /></p>
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" />
+</p>
+</p>
 
 
 <p align="center">
