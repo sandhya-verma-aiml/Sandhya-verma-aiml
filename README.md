@@ -1,4 +1,6 @@
-<img width="400" height="400" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" />
+<h1 align="center"> MY PORTFOLIO</h1>
+
+<p align="left"> <img width="400" height="400" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" /></p>
 
 
 <p align="center">
