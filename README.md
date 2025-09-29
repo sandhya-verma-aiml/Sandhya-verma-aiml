@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="image" src=https://github.com/sandhya-verma-aiml/Sandhya-verma-aiml/blob/main/assets/gif/assets2.gif />
+<img width="400" height="400" alt="image" src="https://github.com/sandhya-verma-aiml/Sandhya-verma-aiml/blob/main/assets/gif/assetas6.gif" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" />
