@@ -8,27 +8,49 @@ MY PORTFOLIO
 
 - 🌱 I’m currently learning *Data Analytics*
 
-- 👨‍💻 Watch my LinkedIn profile:  <a href="https://www.linkedin.com/in/hello-sandhya-verma/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+- 👨‍💻 Watch my LinkedIn profile:  [https://www.linkedin.com/in/hello-sandhya-verma/](https://www.linkedin.com/in/hello-sandhya-verma/)
+
 - 📫 How to reach me: *sandhya.verma.aiml@gmail.com*
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandhya-verma-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-<h1 align="center">Hey Coders 👋, I'm S M!</h1>
-<h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sugatamondal/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+<h3 align="left"> 🧑‍💻 TECH STACK:</h3>
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="assets/icons/990-9907356_microsoft-excel-icon-microsoft-excel.jpg" alt="excel" width="70" height="70"/>
   </a>
-  <a href="https://www.instagram.com/sugata_12/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="95" height="95"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="135" height="135"/>
+  </a>
+   <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/5968557.png" alt="google sheets" width="95" height="70"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/aws-color.png" alt="aws" width="70" height="70"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="70" height="70"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="70" height="70"/>
+  </a>
+  <a href="https://pandas.org/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/images.png" alt="pandas" width="70" height="70"/>
+  </a>
+  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/icons/svgicons.png" alt="matplotlib" width="70" height="70"/>
   </a>
 </p>
+<p align="center">
+<h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
+<br>
+
 
 ## 🚀 About Me  
 
