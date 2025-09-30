@@ -1,12 +1,6 @@
-<h1 align="center"> MY PORTFOLIO</h1>
 
-
-<div display="flex" align="center" height="400vh">
-  <div align="left" flex="1" display="flex" justify-content="center" align-items="center"><img width="350" height="350" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" /></div>
-  <div align="right" flex="1"> <img width="350" height="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" /></div>
-</div>
 MY PORTFOLIO
-<h1 align="center">Hi 👋, I'm Shaktiman Gupta</h1>
+<h1 align="center">Hi 👋, I am Sadhya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <div align="right" flex="1"> <img width="350" height="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" /></div>
 </div>
@@ -18,9 +12,10 @@ MY PORTFOLIO
 
 - 🌱 I’m currently learning *Data Analytics*
 
-- 👨‍💻 Watch my LinkedIn profile: [https://www.linkedin.com/in/its-shaktiman-gupta/](https://www.linkedin.com/in/its-shaktiman-gupta/)
-
-- 📫 How to reach me: *its.shaktiman.gupta@gmail.com*
+- 👨‍💻 Watch my LinkedIn profile:  <a href="https://www.linkedin.com/in/hello-sandhya-verma/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+- 📫 How to reach me: *sandhya.verma.aiml@gmail.com*
 
 
 <p align="center">
