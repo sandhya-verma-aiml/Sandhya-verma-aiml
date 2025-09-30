@@ -1,9 +1,9 @@
 <h1 align="center"> MY PORTFOLIO</h1>
 
 
-<div display="flex" height="400vh">
-  <div align="left" flex="1" display="flex" justify-content="center" align-items="center"><img width="300" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" /></div>
-  <div align="right" flex="1"> <img width="300" height="400" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" /></div>
+<div display="flex" align="center" height="400vh">
+  <div align="left" flex="1" display="flex" justify-content="center" align-items="center"><img width="350" height="350" alt="image" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif" /></div>
+  <div align="right" flex="1"> <img width="350" height="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" /></div>
 </div>
 
 
