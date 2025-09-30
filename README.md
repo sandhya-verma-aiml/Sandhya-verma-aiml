@@ -6,10 +6,6 @@ MY PORTFOLIO
 </div>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ShaktimanGupta&label=Profile%20views&color=0e75b6&style=flat" alt="ShaktimanGupta" /> 
-</p>
-
 - 🌱 I’m currently learning *Data Analytics*
 
 - 👨‍💻 Watch my LinkedIn profile:  <a href="https://www.linkedin.com/in/hello-sandhya-verma/">
@@ -19,7 +15,7 @@ MY PORTFOLIO
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoderSugata&color=ff0000" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sandhya-verma-aiml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <h1 align="center">Hey Coders 👋, I'm S M!</h1>
