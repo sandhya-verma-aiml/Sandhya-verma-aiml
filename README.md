@@ -1,6 +1,6 @@
 
 MY PORTFOLIO
-<h1 align="center">Hi 👋, I am Sadhya</h1>
+<h1 align="center">Hi 👋, I am Sandhya</h1>
 <div align="right" flex="1"> <img width="350" height="350" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Turning+Data+into+Insights!;📚+Learning+Python%2C+SQL%2C+Power+BI;🚀+Building+Projects+and+Sharing+on+GitHub;🔗+Connect+and+Grow+Together!" alt="Typing SVG" /></div>
 </div>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sandhya-verma-aiml/Sandhya-verma-aiml/main/assets/gif/assetas6.gif">
@@ -19,31 +19,40 @@ MY PORTFOLIO
 <h3 align="left"> 🧑‍💻 TECH STACK:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="assets/icons/990-9907356_microsoft-excel-icon-microsoft-excel.jpg" alt="excel" width="70" height="70"/>
+    <img src="assets/images/excel_logo1.jpg" alt="excel" width="70" height="70"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/mysql-5-logo-png-transparent.png" alt="mysql" width="95" height="95"/>
+    <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="95" height="95"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Power-BI-Logo.png" alt="powerbi" width="135" height="135"/>
+    <img src="assets/images/powerbi.png" alt="powerbi" width="135" height="135"/>
   </a>
    <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/5968557.png" alt="google sheets" width="95" height="70"/>
+    <img src="assets/images/googlesheet - Copy.png" alt="google sheets" width="95" height="70"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/aws-color.png" alt="aws" width="70" height="70"/>
+    <img src="assets/images/aws - Copy.webp" alt="aws" width="70" height="70"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" alt="python" width="70" height="70"/>
+    <img src="assets/images/python.webp" alt="python" width="70" height="70"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/free-numpy-9294869-7578012.webp" alt="opencv" width="70" height="70"/>
+    <img src="assets/images/numpy - Copy.webp" alt="numpy" width="70" height="70"/>
   </a>
   <a href="https://pandas.org/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/images.png" alt="pandas" width="70" height="70"/>
+    <img src="assets/images/pandas.png" alt="pandas" width="70" height="70"/>
   </a>
   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/svgicons.png" alt="matplotlib" width="70" height="70"/>
+    <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
+  </a>
+   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
+  </a>
+   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
+  </a>
+   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
   </a>
 </p>
 <p align="center">
