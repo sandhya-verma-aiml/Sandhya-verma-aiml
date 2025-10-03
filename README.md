@@ -42,17 +42,20 @@ MY PORTFOLIO
   <a href="https://pandas.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/pandas.png" alt="pandas" width="70" height="70"/>
   </a>
-  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
   </a>
    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
     <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
   </a>
-   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
+   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="assets/images/r language - Copy.webp" alt="R language" width="70" height="70"/>
   </a>
-   <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
+   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="assets/images/scikitlearn - Copy.png" alt="sci-kit learn" width="70" height="70"/>
+  </a>
+  <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
+    <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="70" height="70"/>
   </a>
 </p>
 <p align="center">
