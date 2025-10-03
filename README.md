@@ -22,7 +22,7 @@ MY PORTFOLIO
     <img src="assets/images/excel_logo1.jpg" alt="excel" width="70" height="70"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="95" height="95"/>
+    <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="70" height="70"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="assets/images/powerbi.png" alt="powerbi" width="135" height="135"/>
