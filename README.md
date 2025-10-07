@@ -55,7 +55,7 @@ MY PORTFOLIO
     <img src="assets/images/scikitlearn - Copy.png" alt="sci-kit learn" width="125" height="125"/>
   </a>
   <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
-    <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="150" height="150"/>
+    <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="150" height="180"/>
   </a>
 </p>
 <p align="center">
