@@ -25,13 +25,13 @@ MY PORTFOLIO
     <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="70" height="70"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/images/Power-BI-Logo1.jpg" alt="powerbi" width="135" height="135"/>
+    <img src="assets/images/Power-BI-Logo1.jpg" alt="powerbi" width="130" height="130"/>
   </a>
    <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
     <img src="assets/images/googlesheet - Copy.png" alt="google sheets" width="95" height="70"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="assets/images/aws - Copy.webp" alt="aws" width="70" height="70"/>
+    <img src="assets/images/aws - Copy.webp" alt="aws" width="90" height="90"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/python.webp" alt="python" width="70" height="70"/>
@@ -46,16 +46,16 @@ MY PORTFOLIO
     <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
   </a>
    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="70" height="70"/>
+    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="130" height="130"/>
   </a>
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="assets/images/r language - Copy.webp" alt="R language" width="70" height="70"/>
+    <img src="assets/images/r language - Copy.webp" alt="R language" width="90" height="90"/>
   </a>
    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/scikitlearn - Copy.png" alt="sci-kit learn" width="70" height="70"/>
+    <img src="assets/images/scikitlearn - Copy.png" alt="sci-kit learn" width="130" height="130"/>
   </a>
   <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
-    <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="70" height="70"/>
+    <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="90" height="90"/>
   </a>
 </p>
 <p align="center">
