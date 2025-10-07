@@ -46,7 +46,7 @@ MY PORTFOLIO
     <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
   </a>
    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib1.png" alt="matplotlib" width="120" height="120"/>
+    <img src="assets/images/matplotlib2.png" alt="matplotlib" width="120" height="120"/>
   </a>
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/r language - Copy.webp" alt="R language" width="90" height="90"/>
