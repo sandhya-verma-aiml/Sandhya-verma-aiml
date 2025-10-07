@@ -77,13 +77,13 @@ MY PORTFOLIO
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CoderSugata&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSugata&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sandhya-verma-aiml&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-verma-aiml&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>  
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CoderSugata&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sandhya-verma-aiml&theme=radical&hide_border=true" />
 </p>
 
 ## 📌 Featured Projects  
