@@ -25,7 +25,7 @@ MY PORTFOLIO
     <img src="assets/images/mysql2 - Copy.png" alt="mysql" width="70" height="70"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/images/powerbi.png" alt="powerbi" width="135" height="135"/>
+    <img src="assets/images/Power-BI-Logo1.jpg" alt="powerbi" width="135" height="135"/>
   </a>
    <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank" rel="noreferrer">
     <img src="assets/images/googlesheet - Copy.png" alt="google sheets" width="95" height="70"/>
@@ -59,8 +59,6 @@ MY PORTFOLIO
   </a>
 </p>
 <p align="center">
-<h3 align="center">📈 Aspiring Data Analyst | 🐍 Python | 📊 Power BI | 🔍 SQL | 🧠 Machine Learning </h3>
-<br>
 
 
 ## 🚀 About Me  
@@ -72,13 +70,9 @@ MY PORTFOLIO
 - 📂 Building hands-on projects and sharing everything on GitHub.  
 - 💬 Passionate about simplifying complex ideas and data storytelling.  
 
-## 🧑‍💻 Skills and Technologies  
 
-### **Languages, Libraries & Frameworks** 📚  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFB81C?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-### **Databases, Tools & Software** 🛠️  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 
 ## 📊 GitHub Analytics  
 
@@ -99,4 +93,4 @@ MY PORTFOLIO
 - 📂 [Machine Learning Assignments](https://github.com/CoderSugata/MachineLearningAssignments)  
 - 📂 [DSA With Java](https://github.com/CoderSugata/DSAwithJava) (_Personal repo_ 😁)  
 
-> _"I like to help people, but I'm not a people-pleaser."_ – **S.M** 🧿  
+
