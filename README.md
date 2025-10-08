@@ -46,7 +46,7 @@ MY PORTFOLIO
     <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
   </a>
    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib2.png" alt="matplotlib" width="120" height="120"/>
+    <img src="assets/images/matplotlib2.png" alt="matplotlib" width="100" height="90"/>
   </a>
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/r language - Copy.webp" alt="R language" width="90" height="90"/>
@@ -86,11 +86,6 @@ MY PORTFOLIO
   <img src="https://streak-stats.demolab.com?user=Sandhya-verma-aiml&theme=radical&hide_border=true" />
 </p>
 
-## 📌 Featured Projects  
 
-- 📂 [Python Assignments](https://github.com/CoderSugata/PythonAssignments)  
-- 📂 [Statistics Assignments](https://github.com/CoderSugata/StatisticsAssignments)  
-- 📂 [Machine Learning Assignments](https://github.com/CoderSugata/MachineLearningAssignments)  
-- 📂 [DSA With Java](https://github.com/CoderSugata/DSAwithJava) (_Personal repo_ 😁)  
 
 
