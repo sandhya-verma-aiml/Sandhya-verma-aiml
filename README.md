@@ -31,7 +31,7 @@ MY PORTFOLIO
     <img src="assets/images/googlesheet - Copy.png" alt="google sheets" width="95" height="70"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="assets/images/aws - Copy.webp" alt="aws" width="115" height="115"/>
+    <img src="assets/images/aws2.png" alt="aws" width="115" height="115"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/python.webp" alt="python" width="70" height="70"/>
@@ -49,10 +49,10 @@ MY PORTFOLIO
     <img src="assets/images/matplotlib2.png" alt="matplotlib" width="100" height="90"/>
   </a>
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="assets/images/r language - Copy.webp" alt="R language" width="90" height="90"/>
+    <img src="assets/images/r language2.png" alt="R language" width="90" height="90"/>
   </a>
    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/scikitlearn - Copy.png" alt="sci-kit learn" width="125" height="125"/>
+    <img src="assets/images/scikitlearn2.png" alt="sci-kit learn" width="125" height="125"/>
   </a>
   <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
     <img src="assets/images/machinelearning - Copy.png" alt="machine learning" width="150" height="180"/>
