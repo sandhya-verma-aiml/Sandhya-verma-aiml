@@ -46,16 +46,16 @@ MY PORTFOLIO
     <img src="assets/images/git - Copy.png" alt="git" width="70" height="70"/>
   </a>
    <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/matplotlib2.png" alt="matplotlib" width="100" height="90"/>
+    <img src="assets/images/matplotlib2.png" alt="matplotlib" width="90" height="70"/>
   </a>
    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="assets/images/r language2.png" alt="R language" width="90" height="90"/>
   </a>
    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="assets/images/scikitlearn2.png" alt="sci-kit learn" width="125" height="125"/>
+    <img src="assets/images/scikitlearn2.png" alt="sci-kit learn" width="95" height="95"/>
   </a>
   <a href="https://www.ibm.com/think/topics/machine-learning" target="_blank" rel="noreferrer">
-    <img src="assets/images/ml2.jpg" alt="machine learning" width="150" height="180"/>
+    <img src="assets/images/ml2.jpg" alt="machine learning" width="90" height="100"/>
   </a>
 </p>
 <p align="center">
