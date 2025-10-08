@@ -7,7 +7,7 @@ MY PORTFOLIO
 
 - 🌱 I’m currently learning *Data Analytics*
 
-- 👨‍💻 Watch my LinkedIn profile:  [www.linkedin.com/in/sandhya-verma-aiml](www.linkedin.com/in/sandhya-verma-aiml)
+- 👨‍💻 Watch my LinkedIn profile:  [https://www.linkedin.com/in/hello-sandhya-verma/](https://www.linkedin.com/in/hello-sandhya-verma/)
 
 - 📫 How to reach me: *sandhya.verma.aiml@gmail.com*
 
